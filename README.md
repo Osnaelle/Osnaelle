@@ -1,5 +1,9 @@
-- 👋 Oii, eu sou Osnaelle
-- 👩‍💻 Dev Junior Front-end
+- 👋 Oii, eu sou Osnaelle!
+- 👩‍💻 Dev Junior Front-end (HTML/CSS/JAVASCRIPT)
+
+- Learning 🌱
+
+(React/Figma/UX E UI DESIGN)
  
 
 <!---
