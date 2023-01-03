@@ -1,6 +1,6 @@
 - 👋 Oii, eu sou Osnaelle!
 - 👩‍💻 Dev Junior Front-end (HTML/CSS/JAVASCRIPT)
-- ✏️ Professora de programação 
+- 💻 Professora de programação 
 
 - Learning 🌱
 
