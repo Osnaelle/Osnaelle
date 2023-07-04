@@ -1,6 +1,7 @@
+<h1 align="center"> 👋 Oii, eu sou Osnaelle! </h1>
+
 <a align="center" href="https://www.linkedin.com/in/osnaelle-farias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-- 👋 Oii, eu sou Osnaelle! 
 
 - 📘 Bacharel em Ciência da Computação
 - 👩‍💻 Dev Front-end 
