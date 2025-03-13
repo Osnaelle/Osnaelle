@@ -4,7 +4,7 @@
 
 
 - 📘 Bacharel em Ciência da Computação
-- 👩‍💻 Dev Front-end 
+- 👩‍💻 Dev Full-stack
 - 💻 Professora de programação 
 
 
